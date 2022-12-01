@@ -28,8 +28,8 @@ head(iris)
 
 # the iris data frame has 5 differnt varibles:
 # Species is a categorical varible (represent types of data
-# that may be divided into groups) Sepal length and width and petal length and with are 
-#quantitive varibles
+# that may be divided into groups) petal length 
+#and width and petal length and with are quantitive varibles
 
 # wehn doing data analiysis, its recommeneded that you
 #look a the data visually first in the form of graphs
@@ -48,7 +48,7 @@ plot(iris)
 #give plot function categorical variable in iris data frmae
 #reference the name of the data frame, then use the $
 #x-axis is tekling us the tpes of species
-#y-axismis the 
+#y-axismis the
 plot(iris$Species)
 
 #plot function 1 quantitve varible in the iris data frame
