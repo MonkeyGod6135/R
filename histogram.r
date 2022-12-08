@@ -1,7 +1,6 @@
 # the histogram function is used to create histograms
 # get R documentation histogram function
 ?hist
-
 # call histogram function giving it 1 quantitve 
 # variable in the iris data frame
 # x-axis is telling us the different sepal lengths
